@@ -1,0 +1,81 @@
+help_point_id,name,facility_type,latitude,longitude,ward_no,zone_no,zone_name,address,phone,is_verified,is_active,is_demo
+1,Alandur Ward-160 General Hospital,HOSPITAL,13.003958,80.206036,160,XII,ALANDUR,"Ward 160, Zone XII (Alandur), Chennai",044-0000-1001,True,True,True
+2,Thiruvottiyur Ward-8 Police Divisional HQ,POLICE_STATION,13.166639,80.306673,8,I,THIRUVOTTIYUR,"Ward 8, Zone I (Thiruvottiyur), Chennai",044-0000-1002,True,True,True
+3,Thiru Vi Ka Nagar Ward-70 Public Safety Kiosk,POLICE_BOOTH,13.108949,80.247196,70,VI,THIRU-VI-KA-NAGAR,"Ward 70, Zone VI (Thiru Vi Ka Nagar), Chennai",044-0000-1003,True,True,True
+4,Kodambakkam Ward-129 Transit Emergency Post,EMERGENCY_FACILITY,13.053693,80.202499,129,X,KODAMBAKKAM,"Ward 129, Zone X (Kodambakkam), Chennai",,True,True,True
+5,Thiru Vi Ka Nagar Ward-74 Community Health Clinic,HOSPITAL,13.092304,80.245177,74,VI,THIRU-VI-KA-NAGAR,"Ward 74, Zone VI (Thiru Vi Ka Nagar), Chennai",044-0000-1005,True,True,True
+6,Thiru Vi Ka Nagar Ward-67 Sub-Station,POLICE_STATION,13.111966,80.234539,67,VI,THIRU-VI-KA-NAGAR,"Ward 67, Zone VI (Thiru Vi Ka Nagar), Chennai",044-0000-1006,True,True,True
+7,Tondiarpet Ward-40 Public Safety Kiosk,POLICE_BOOTH,13.133539,80.289196,40,IV,TONDIARPET,"Ward 40, Zone IV (Tondiarpet), Chennai",044-0000-1007,True,True,True
+8,Madhavaram Ward-22 Civic First-Aid Station,EMERGENCY_FACILITY,13.169427,80.204439,22,III,MADHAVARAM,"Ward 22, Zone III (Madhavaram), Chennai",,True,True,True
+9,Kodambakkam Ward-128 Emergency Care Center,HOSPITAL,13.045596,80.189964,128,X,KODAMBAKKAM,"Ward 128, Zone X (Kodambakkam), Chennai",044-0000-1009,True,True,True
+10,Thiruvottiyur Ward-6 Police Divisional HQ,POLICE_STATION,13.177912,80.293343,6,I,THIRUVOTTIYUR,"Ward 6, Zone I (Thiruvottiyur), Chennai",044-0000-1010,True,True,True
+11,Alandur Ward-163 24x7 Police Assistance Booth,POLICE_BOOTH,12.990092,80.201806,163,XII,ALANDUR,"Ward 163, Zone XII (Alandur), Chennai",044-0000-1011,True,True,True
+12,Kodambakkam Ward-135 Civic First-Aid Station,EMERGENCY_FACILITY,13.040061,80.223684,135,X,KODAMBAKKAM,"Ward 135, Zone X (Kodambakkam), Chennai",,True,True,True
+13,Sozhinganallur Ward-198 Community Health Clinic,HOSPITAL,12.891048,80.245454,198,XV,SOZHINGANALLUR,"Ward 198, Zone XV (Sozhinganallur), Chennai",044-0000-1013,True,True,True
+14,Thiruvottiyur Ward-1 Sub-Station,POLICE_STATION,13.226067,80.322795,1,I,THIRUVOTTIYUR,"Ward 1, Zone I (Thiruvottiyur), Chennai",044-0000-1014,True,True,True
+15,Adyar Ward-179 24x7 Police Assistance Booth,POLICE_BOOTH,12.977906,80.227172,179,XIII,ADYAR,"Ward 179, Zone XIII (Adyar), Chennai",044-0000-1015,True,True,True
+16,Teynampet Ward-115 Public Relief Sanctuary,EMERGENCY_FACILITY,13.056037,80.26573,115,IX,TEYNAMPET,"Ward 115, Zone IX (Teynampet), Chennai",,True,True,True
+17,Royapuram Ward-60 Medical Aid Post,HOSPITAL,13.083883,80.289995,60,V,ROYAPURAM,"Ward 60, Zone V (Royapuram), Chennai",044-0000-1017,True,True,True
+18,Annanagar Ward-101 Sub-Station,POLICE_STATION,13.085438,80.219749,101,VIII,ANNANAGAR,"Ward 101, Zone VIII (Annanagar), Chennai",044-0000-1018,True,True,True
+19,Thiruvottiyur Ward-2 Public Safety Kiosk,POLICE_BOOTH,13.215405,80.318306,2,I,THIRUVOTTIYUR,"Ward 2, Zone I (Thiruvottiyur), Chennai",044-0000-1019,True,True,True
+20,Tondiarpet Ward-43 Transit Emergency Post,EMERGENCY_FACILITY,13.126369,80.293545,43,IV,TONDIARPET,"Ward 43, Zone IV (Tondiarpet), Chennai",,True,True,True
+21,Tondiarpet Ward-38 Community Health Clinic,HOSPITAL,13.133777,80.280797,38,IV,TONDIARPET,"Ward 38, Zone IV (Tondiarpet), Chennai",044-0000-1021,True,True,True
+22,Ambattur Ward-92 Sector Police Post,POLICE_STATION,13.0804,80.182796,92,VII,AMBATTUR,"Ward 92, Zone VII (Ambattur), Chennai",044-0000-1022,True,True,True
+23,Adyar Ward-176 Public Safety Kiosk,POLICE_BOOTH,13.003893,80.265507,176,XIII,ADYAR,"Ward 176, Zone XIII (Adyar), Chennai",044-0000-1023,True,True,True
+24,Kodambakkam Ward-133 Civic First-Aid Station,EMERGENCY_FACILITY,13.041635,80.218955,133,X,KODAMBAKKAM,"Ward 133, Zone X (Kodambakkam), Chennai",,True,True,True
+25,Perungudi Ward-185 General Hospital,HOSPITAL,12.9621,80.253905,185,XIV,PERUNGUDI,"Ward 185, Zone XIV (Perungudi), Chennai",044-0000-1025,True,True,True
+26,Tondiarpet Ward-36 Police Divisional HQ,POLICE_STATION,13.123877,80.253807,36,IV,TONDIARPET,"Ward 36, Zone IV (Tondiarpet), Chennai",044-0000-1026,True,True,True
+27,Alandur Ward-159 Patrol Assistance Post,POLICE_BOOTH,12.992339,80.169033,159,XII,ALANDUR,"Ward 159, Zone XII (Alandur), Chennai",044-0000-1027,True,True,True
+28,Kodambakkam Ward-142 Transit Emergency Post,EMERGENCY_FACILITY,13.02172,80.218686,142,X,KODAMBAKKAM,"Ward 142, Zone X (Kodambakkam), Chennai",,True,True,True
+29,Teynampet Ward-116 Medical Aid Post,HOSPITAL,13.05433,80.277722,116,IX,TEYNAMPET,"Ward 116, Zone IX (Teynampet), Chennai",044-0000-1029,True,True,True
+30,Tondiarpet Ward-39 Sector Police Post,POLICE_STATION,13.138188,80.295763,39,IV,TONDIARPET,"Ward 39, Zone IV (Tondiarpet), Chennai",044-0000-1030,True,True,True
+31,Teynampet Ward-125 Patrol Assistance Post,POLICE_BOOTH,13.035861,80.275349,125,IX,TEYNAMPET,"Ward 125, Zone IX (Teynampet), Chennai",044-0000-1031,True,True,True
+32,Perungudi Ward-188 Public Relief Sanctuary,EMERGENCY_FACILITY,12.953673,80.202196,188,XIV,PERUNGUDI,"Ward 188, Zone XIV (Perungudi), Chennai",,True,True,True
+33,Thiru Vi Ka Nagar Ward-75 General Hospital,HOSPITAL,13.094938,80.252163,75,VI,THIRU-VI-KA-NAGAR,"Ward 75, Zone VI (Thiru Vi Ka Nagar), Chennai",044-0000-1033,True,True,True
+34,Thiruvottiyur Ward-7 Sector Police Post,POLICE_STATION,13.157573,80.281804,7,I,THIRUVOTTIYUR,"Ward 7, Zone I (Thiruvottiyur), Chennai",044-0000-1034,True,True,True
+35,Madhavaram Ward-29 24x7 Police Assistance Booth,POLICE_BOOTH,13.154734,80.262381,29,III,MADHAVARAM,"Ward 29, Zone III (Madhavaram), Chennai",044-0000-1035,True,True,True
+36,Valasaravakkam Ward-148 Emergency Disaster Response Center,EMERGENCY_FACILITY,13.057253,80.183987,148,XI,VALASARAVAKKAM,"Ward 148, Zone XI (Valasaravakkam), Chennai",,True,True,True
+37,Royapuram Ward-59 Emergency Care Center,HOSPITAL,13.077192,80.276421,59,V,ROYAPURAM,"Ward 59, Zone V (Royapuram), Chennai",044-0000-1037,True,True,True
+38,Alandur Ward-158 Police Divisional HQ,POLICE_STATION,13.016376,80.187745,158,XII,ALANDUR,"Ward 158, Zone XII (Alandur), Chennai",044-0000-1038,True,True,True
+39,Madhavaram Ward-25 Public Safety Kiosk,POLICE_BOOTH,13.150201,80.208353,25,III,MADHAVARAM,"Ward 25, Zone III (Madhavaram), Chennai",044-0000-1039,True,True,True
+40,Valasaravakkam Ward-146 Transit Emergency Post,EMERGENCY_FACILITY,13.052326,80.164073,146,XI,VALASARAVAKKAM,"Ward 146, Zone XI (Valasaravakkam), Chennai",,True,True,True
+41,Royapuram Ward-62 Medical Aid Post,HOSPITAL,13.07462,80.269849,62,V,ROYAPURAM,"Ward 62, Zone V (Royapuram), Chennai",044-0000-1041,True,True,True
+42,Kodambakkam Ward-137 Law Enforcement Station,POLICE_STATION,13.035693,80.195854,137,X,KODAMBAKKAM,"Ward 137, Zone X (Kodambakkam), Chennai",044-0000-1042,True,True,True
+43,Valasaravakkam Ward-143 Community Safety Booth,POLICE_BOOTH,13.073611,80.168568,143,XI,VALASARAVAKKAM,"Ward 143, Zone XI (Valasaravakkam), Chennai",044-0000-1043,True,True,True
+44,Annanagar Ward-98 Transit Emergency Post,EMERGENCY_FACILITY,13.091369,80.236081,98,VIII,ANNANAGAR,"Ward 98, Zone VIII (Annanagar), Chennai",,True,True,True
+45,Thiruvottiyur Ward-3 Medical Aid Post,HOSPITAL,13.196302,80.312165,3,I,THIRUVOTTIYUR,"Ward 3, Zone I (Thiruvottiyur), Chennai",044-0000-1045,True,True,True
+46,Annanagar Ward-95 Sector Police Post,POLICE_STATION,13.101508,80.200589,95,VIII,ANNANAGAR,"Ward 95, Zone VIII (Annanagar), Chennai",044-0000-1046,True,True,True
+47,Annanagar Ward-94 Patrol Assistance Post,POLICE_BOOTH,13.110286,80.20207,94,VIII,ANNANAGAR,"Ward 94, Zone VIII (Annanagar), Chennai",044-0000-1047,True,True,True
+48,Thiru Vi Ka Nagar Ward-71 Emergency Disaster Response Center,EMERGENCY_FACILITY,13.102864,80.247895,71,VI,THIRU-VI-KA-NAGAR,"Ward 71, Zone VI (Thiru Vi Ka Nagar), Chennai",,True,True,True
+49,Ambattur Ward-86 Emergency Care Center,HOSPITAL,13.09187,80.161071,86,VII,AMBATTUR,"Ward 86, Zone VII (Ambattur), Chennai",044-0000-1049,True,True,True
+50,Teynampet Ward-120 Sub-Station,POLICE_STATION,13.049446,80.276028,120,IX,TEYNAMPET,"Ward 120, Zone IX (Teynampet), Chennai",044-0000-1050,True,True,True
+51,Sozhinganallur Ward-196 Patrol Assistance Post,POLICE_BOOTH,12.922631,80.249506,196,XV,SOZHINGANALLUR,"Ward 196, Zone XV (Sozhinganallur), Chennai",044-0000-1051,True,True,True
+52,Thiruvottiyur Ward-11 Emergency Disaster Response Center,EMERGENCY_FACILITY,13.154481,80.303872,11,I,THIRUVOTTIYUR,"Ward 11, Zone I (Thiruvottiyur), Chennai",,True,True,True
+53,Annanagar Ward-107 Trauma Care Unit,HOSPITAL,13.072509,80.24016,107,VIII,ANNANAGAR,"Ward 107, Zone VIII (Annanagar), Chennai",044-0000-1053,True,True,True
+54,Manali Ward-18 Sector Police Post,POLICE_STATION,13.179208,80.269734,18,II,MANALI,"Ward 18, Zone II (Manali), Chennai",044-0000-1054,True,True,True
+55,Perungudi Ward-191 Public Safety Kiosk,POLICE_BOOTH,12.918718,80.203206,191,XIV,PERUNGUDI,"Ward 191, Zone XIV (Perungudi), Chennai",044-0000-1055,True,True,True
+56,Royapuram Ward-51 Transit Emergency Post,EMERGENCY_FACILITY,13.112621,80.286618,51,V,ROYAPURAM,"Ward 51, Zone V (Royapuram), Chennai",,True,True,True
+57,Annanagar Ward-96 Emergency Care Center,HOSPITAL,13.102879,80.226275,96,VIII,ANNANAGAR,"Ward 96, Zone VIII (Annanagar), Chennai",044-0000-1057,True,True,True
+58,Tondiarpet Ward-45 Sub-Station,POLICE_STATION,13.113486,80.258203,45,IV,TONDIARPET,"Ward 45, Zone IV (Tondiarpet), Chennai",044-0000-1058,True,True,True
+59,Manali Ward-19 Public Safety Kiosk,POLICE_BOOTH,13.172875,80.240675,19,II,MANALI,"Ward 19, Zone II (Manali), Chennai",044-0000-1059,True,True,True
+60,Adyar Ward-182 Emergency Disaster Response Center,EMERGENCY_FACILITY,12.980076,80.260885,182,XIII,ADYAR,"Ward 182, Zone XIII (Adyar), Chennai",,True,True,True
+61,Tondiarpet Ward-41 Trauma Care Unit,HOSPITAL,13.124881,80.2752,41,IV,TONDIARPET,"Ward 41, Zone IV (Tondiarpet), Chennai",044-0000-1061,True,True,True
+62,Royapuram Ward-53 Police Divisional HQ,POLICE_STATION,13.106243,80.275429,53,V,ROYAPURAM,"Ward 53, Zone V (Royapuram), Chennai",044-0000-1062,True,True,True
+63,Perungudi Ward-169 Public Safety Kiosk,POLICE_BOOTH,12.971294,80.200848,169,XIV,PERUNGUDI,"Ward 169, Zone XIV (Perungudi), Chennai",044-0000-1063,True,True,True
+64,Valasaravakkam Ward-151 Civic First-Aid Station,EMERGENCY_FACILITY,13.031749,80.168909,151,XI,VALASARAVAKKAM,"Ward 151, Zone XI (Valasaravakkam), Chennai",,True,True,True
+65,Thiruvottiyur Ward-4 General Hospital,HOSPITAL,13.184792,80.304202,4,I,THIRUVOTTIYUR,"Ward 4, Zone I (Thiruvottiyur), Chennai",044-0000-1065,True,True,True
+66,Adyar Ward-171 Law Enforcement Station,POLICE_STATION,13.018794,80.231657,171,XIII,ADYAR,"Ward 171, Zone XIII (Adyar), Chennai",044-0000-1066,True,True,True
+67,Kodambakkam Ward-130 Patrol Assistance Post,POLICE_BOOTH,13.053645,80.212857,130,X,KODAMBAKKAM,"Ward 130, Zone X (Kodambakkam), Chennai",044-0000-1067,True,True,True
+68,Teynampet Ward-118 Transit Emergency Post,EMERGENCY_FACILITY,13.046489,80.252167,118,IX,TEYNAMPET,"Ward 118, Zone IX (Teynampet), Chennai",,True,True,True
+69,Annanagar Ward-97 Emergency Care Center,HOSPITAL,13.093803,80.228956,97,VIII,ANNANAGAR,"Ward 97, Zone VIII (Annanagar), Chennai",044-0000-1069,True,True,True
+70,Madhavaram Ward-28 Law Enforcement Station,POLICE_STATION,13.156373,80.249924,28,III,MADHAVARAM,"Ward 28, Zone III (Madhavaram), Chennai",044-0000-1070,True,True,True
+71,Annanagar Ward-105 Patrol Assistance Post,POLICE_BOOTH,13.068324,80.21167,105,VIII,ANNANAGAR,"Ward 105, Zone VIII (Annanagar), Chennai",044-0000-1071,True,True,True
+72,Annanagar Ward-99 Civic First-Aid Station,EMERGENCY_FACILITY,13.086275,80.203793,99,VIII,ANNANAGAR,"Ward 99, Zone VIII (Annanagar), Chennai",,True,True,True
+73,Tondiarpet Ward-48 General Hospital,HOSPITAL,13.115784,80.282775,48,IV,TONDIARPET,"Ward 48, Zone IV (Tondiarpet), Chennai",044-0000-1073,True,True,True
+74,Thiru Vi Ka Nagar Ward-69 Law Enforcement Station,POLICE_STATION,13.112618,80.240814,69,VI,THIRU-VI-KA-NAGAR,"Ward 69, Zone VI (Thiru Vi Ka Nagar), Chennai",044-0000-1074,True,True,True
+75,Annanagar Ward-100 Public Safety Kiosk,POLICE_BOOTH,13.087997,80.213051,100,VIII,ANNANAGAR,"Ward 100, Zone VIII (Annanagar), Chennai",044-0000-1075,True,True,True
+76,Ambattur Ward-79 Emergency Disaster Response Center,EMERGENCY_FACILITY,13.132031,80.152626,79,VII,AMBATTUR,"Ward 79, Zone VII (Ambattur), Chennai",,True,True,True
+77,Alandur Ward-161 Emergency Care Center,HOSPITAL,12.996541,80.202792,161,XII,ALANDUR,"Ward 161, Zone XII (Alandur), Chennai",044-0000-1077,True,True,True
+78,Royapuram Ward-57 Sector Police Post,POLICE_STATION,13.092457,80.279732,57,V,ROYAPURAM,"Ward 57, Zone V (Royapuram), Chennai",044-0000-1078,True,True,True
+79,Manali Ward-16 24x7 Police Assistance Booth,POLICE_BOOTH,13.193766,80.278543,16,II,MANALI,"Ward 16, Zone II (Manali), Chennai",044-0000-1079,True,True,True
+80,Royapuram Ward-50 Public Relief Sanctuary,EMERGENCY_FACILITY,13.113474,80.296754,50,V,ROYAPURAM,"Ward 50, Zone V (Royapuram), Chennai",,True,True,True
